@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    background: silver;
+}
+
+body {
+    width: 500px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    background: black;
+    margin-top: 60px;
+}
